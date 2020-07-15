@@ -1,3 +1,6 @@
+## description 
+Minesweeper game with manual and auto modes. There are 4 levels of the game available.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
